@@ -15,7 +15,7 @@
         font-size:16px;
     }
     .typed-out{
-        font-size: 22px;
+        font-size: 25px;
         top:25px;
         color: black;
         left:80px;
@@ -132,7 +132,7 @@
     }
     .maintenance{
         position: absolute;
-        top:60px;
+        top:65px;
         left:35px;
         font-size: 15px;
       }
@@ -141,6 +141,7 @@
       }
     .here{
         font-size: 25px;
+        font-family: "Brush Script MT", cursive;
     }
     .typed-out1{
         display: none;
@@ -149,7 +150,7 @@
         display: none;
     }
       .section_1{
-        font-size: 25px;
+        font-size: 22px;
       }
       .section_1_1{
         left:5%;
@@ -157,25 +158,37 @@
       .contact{
         font-size: 15px;
       }
+      .section_1_1_text{
+        -webkit-text-stroke: 1px white;
+      }
       .section_2{
-        font-size: 25px;
+        font-size: 22px;
       }
       .section_2_2{
         left:5%;
+      }
+      .section_2_2_text{
+        -webkit-text-stroke: 1px white;
       }
       .contactdunkin{
         font-size: 15px;
       }
       .section_3{
-        font-size: 25px;
+        font-size: 22px;
       }
       .section_3_3{
         left:5%;
+      }
+      .section_3_3_text{
+        -webkit-text-stroke: 1px white;
       }
       .contacttim{
         font-size: 15px;
       }
       .FooterMyName{
         bottom: 10px;
+    }
+    .chat-container{
+        left:35px;
     }
 }
