@@ -224,4 +224,10 @@
     .AboutUs .devloper-list .devloper::after{
         height:350px;
     }
+    .link1{
+        font-family: "Brush Script MT", cursive;
+    }
+    .link2{
+        font-family: "Brush Script MT", cursive;
+    }
 }
